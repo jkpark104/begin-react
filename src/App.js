@@ -1,8 +1,13 @@
 import React from 'react';
-import InputSample from './InputSample';
+import User from './User';
 
 function App() {
-  return <InputSample />;
+  // const user = {
+  //   id: 1,
+  //   username: 'velopert',
+  // };
+
+  return <User />;
 }
 
 export default App;
